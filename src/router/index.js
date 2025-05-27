@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
-// Layouts
+// Layout
 import LayoutPenyewa from '../layouts/LayuotPenyewa.vue'
 import LayoutPemilik from '../layouts/LayoutPemilik.vue'
 
