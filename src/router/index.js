@@ -13,7 +13,7 @@ import Tagihan from '../pages/penyewa/Tagihan.vue'
 import Pembayaran from '../pages/penyewa/Pembayaran.vue'
 import Riwayat from '../pages/penyewa/Riwayat.vue'
 import ProfilPenyewa from '../pages/penyewa/Profil.vue'
-import LogoutPenyewa from '../pages/penyewa/Logout.vue'
+import LogoutPenyewa from '../pages/penyewa/logout.vue'
 
 // Pemilik Pages
 import PemilikDashboard from '../pages/pemilik/Dashboard.vue'
